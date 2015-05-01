@@ -1,7 +1,7 @@
 /*
 In weka, we can use .arff file and also .csv file. 
 Weka accepts .csv file.
-This class shows how can we use .csv in weka?
+This class shows how to use .csv in weka?
 */
 
 import weka.core.Instances;
