@@ -1,2 +1,2 @@
 # weka
-It helps how to use Weka with Eclipse
+It helps how to use Weka for your project with Eclipse.
