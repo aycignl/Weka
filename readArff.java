@@ -1,4 +1,8 @@
 /*
+
+ * username: Gonul
+ * e-mail: gonul.ayci90@gmail.com
+
 This file shows how to use .arff file in weka.
 */
 
